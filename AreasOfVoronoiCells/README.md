@@ -1,6 +1,6 @@
 # Areas of Voronoi cells
 ## 2 kyu
-## Description:
+### Description:
 Given a set of "seed points" in the plane, we can make a pattern called a Voronoi tessellation:  
 <img src="https://stat.auckland.ac.nz/~geoff/codewars/voronoi.png"><br>
 
